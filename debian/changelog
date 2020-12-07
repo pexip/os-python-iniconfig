@@ -1,0 +1,33 @@
+python-iniconfig (1.1.1-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Bump Standards-Version to 4.5.1 (no changes needed)
+  * Fix package description (indent list)
+
+ -- Christian Kastner <ckk@debian.org>  Mon, 07 Dec 2020 11:06:42 +0100
+
+python-iniconfig (1.0.1-4) unstable; urgency=medium
+
+  * autopkgtest: Add missing dependency on python3-iniconfig
+
+ -- Christian Kastner <ckk@debian.org>  Tue, 22 Sep 2020 21:07:44 +0200
+
+python-iniconfig (1.0.1-3) unstable; urgency=medium
+
+  * autopkgtest: Fix broken py3versions invocation
+  * Update Maintainer + Vcs-* for new Debian Python Team
+  * wrap-and-sort
+
+ -- Christian Kastner <ckk@debian.org>  Tue, 22 Sep 2020 14:16:00 +0200
+
+python-iniconfig (1.0.1-2) unstable; urgency=medium
+
+  * Don't ship test file in global namespace
+
+ -- Christian Kastner <ckk@debian.org>  Mon, 10 Aug 2020 12:41:50 +0200
+
+python-iniconfig (1.0.1-1) unstable; urgency=medium
+
+  * Initial release. Closes: #968152
+
+ -- Christian Kastner <ckk@debian.org>  Sun, 09 Aug 2020 20:13:35 +0200

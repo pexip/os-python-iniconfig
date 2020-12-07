@@ -1,0 +1,1 @@
+extend-diff-ignore = '^(\.pytest_cache|iniconfig.egg-info).*$'
